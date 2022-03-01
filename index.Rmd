@@ -385,4 +385,4 @@ https://www.inaturalist.org/observations/71686701 - The record maps to the cente
 
 **Next steps**
 
-Now that the initial phase of data exploration has concluded, the data can next be prepared for use in various modeling scenarios to answer a variety of ecological questions. For example, using the elevation raster layer calculated previously as one of the ecologically-significant environmental covariates for a correlative approach to modeling the distribution of the species.
+Now that the initial phase of data exploration has concluded, the data can next be prepared for use in various modeling scenarios to answer a variety of ecological questions. For example, using the elevation raster layer calculated previously as one of the ecologically-significant environmental covariates for a correlative approach to modeling the distribution of the species. 
