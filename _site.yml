@@ -1,0 +1,5 @@
+name: "."
+title: "Sierra newt"
+description: | 
+ Sierra newt
+output: distill::distill_article
