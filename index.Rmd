@@ -382,7 +382,6 @@ Before modeling observation records, a deeper exploration of the data are requir
 https://www.inaturalist.org/observations/86987010 - One observation of interest is a record from a residence, adjacent to the American River at ~16.5 meters above sea level, in suburban Sacramento, California. The source of this record is an INaturalist observation from Jul 14, 2021. It may be appropriate to model these data by comparing model outputs from both including & excluding this observation. Because this species is known to be found down to sea level, it may be worth modeling both including & excluding this observation.
 
 https://www.inaturalist.org/observations/71686701 - The record maps to the center of Chico, CA and has an accuracy of ~14.5km, according to the INaturalist observation. As a result, it is unlikely that this observation would be of much use in any spatial modeling due to such low accuracy and subsequently should be removed prior to analyses. 
-
 **Next steps**
 
 Now that the initial phase of data exploration has concluded, the data can next be prepared for use in various modeling scenarios to answer a variety of ecological questions. For example, using the elevation raster layer calculated previously as one of the ecologically-significant environmental covariates for a correlative approach to modeling the distribution of the species. 
